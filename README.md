@@ -31,7 +31,7 @@ This project is beginner-friendly and serves as a great starting point for learn
 
 ## 🔗 Deployed Smart Contract
 **Ethereum Network (Testnet):** [View on Etherscan](XXX)
-
+https://repo.sourcify.dev/11142220/0xeb4c5eDEB19C0911A5655df15263f775E2baf1c5/
 ---
 
 ## 💻 Smart Contract Code
